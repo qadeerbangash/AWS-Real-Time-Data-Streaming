@@ -4,6 +4,7 @@
 This project demonstrates how to set up a data pipeline using AWS services. It involves using AWS EC2, Kafka, Jupyter Notebooks, and AWS Glue to process, transfer, and catalog data.
 
 ## Architecture
+![Architecture](https://github.com/qadeerbangash/AWS-Real-Time-Data-Streaming/assets/64665560/87e3a233-a52a-4e5b-9df2-4a7cf8498ea3)
 
 
 ## Project Components
